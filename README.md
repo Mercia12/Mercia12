@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Mercia12/Mercia12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is Mercy Nweke
+## I am a Data Analyst/Busines Analyst
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I love to clean, transform, model and analyze data for business insights
+### I am currently learning Tableau and Python
+### I am lookin to collaborate with companies, organizations and individuals to solve their business problems leveraging data
+### With my love for creating solutions for businesses
+### Ask me about anything on data and i will respond immediately
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/
+mercy-nweke-b7584780)
+
+- 😄 Pronouns: She
+- ⚡ Fun fact: I love to work and collaborate
+
+## My Ordance
+### Microsoft excel
+### SQL ( Structured Query Language)
