@@ -15,6 +15,6 @@ mercy-nweke-b7584780)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love to work and collaborate
 
-## My Ordance
+## My Ordnance
 ### Microsoft excel
 ### SQL ( Structured Query Language)
